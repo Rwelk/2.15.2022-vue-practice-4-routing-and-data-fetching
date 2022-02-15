@@ -1,0 +1,39 @@
+{
+	"courses": [
+		{
+			"id": 1,
+			"code": "CSC 3620",
+			"title": "Web Application Architectures",
+			"faculty": "Christian Roberson",
+			"description": "Makes you do random web things in class",
+			"rating": 4.5
+		},
+
+		{
+			"id": 2,
+			"code": "CSC 3992",
+			"title": "Directed Study",
+			"faculty": "Matthew Eicholtz",
+			"description": "Creating a driverless golf cart",
+			"rating": 3.6
+		},
+
+		{
+			"id": 3,
+			"code": "MAT 2250",
+			"title": "Analysis in R",
+			"faculty": "Jazmine Everheart",
+			"description": "Learn the basics of coding in R",
+			"rating": 4.6
+		},
+
+		{
+			"id": 4,
+			"code": "MAT 3250",
+			"title": "Intermediate Analysis in R",
+			"faculty": "Jazmine Everheart",
+			"description": "Continue learning how to perform tasks in R",
+			"rating": null
+		}
+	]
+}
